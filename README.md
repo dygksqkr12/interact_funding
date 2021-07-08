@@ -31,19 +31,19 @@
 4.JSTL 동적변수를 활용능력습득
 
 ## 5. 핵심 구현 기술 설명
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0ed3b1cb-001c-4cf5-9976-b33dda633663/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0ed3b1cb-001c-4cf5-9976-b33dda633663/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/77897030/124880185-fa61b680-e008-11eb-892e-f43c53a02338.png)
 
 **화면설명:** 
 
 새소식을 볼  수 있는 페이지입니다. 전체 새소식을 확인할 수 있고 우측 상단의 글쓰기 버튼으로 글을 작성할 수 있습니다.  글쓰기 버튼은 펀딩 작성자에게만 제공됩니다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f11fc49c-7dc1-4c2d-97b7-9996825ee857/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f11fc49c-7dc1-4c2d-97b7-9996825ee857/Untitled.png)
+![Untitled (1)](https://user-images.githubusercontent.com/77897030/124880859-adcaab00-e009-11eb-9b58-64c1a4f5f3a7.png)
 
 **화면설명:**
 
 글 작성은 summernote API를 사용하여 구현하였습니다. 이미지 첨부도 가능합니다. 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/649491ad-6284-47db-a413-892a8e2b6c02/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/649491ad-6284-47db-a413-892a8e2b6c02/Untitled.png)
+![Untitled (2)](https://user-images.githubusercontent.com/77897030/124880939-c5a22f00-e009-11eb-9011-bb22e377a959.png)
 
 **화면설명:**
 
@@ -55,13 +55,14 @@
 
 ---
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cb14efae-ab6d-4b22-a460-1365e7c354c2/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cb14efae-ab6d-4b22-a460-1365e7c354c2/Untitled.png)
+![Untitled (3)](https://user-images.githubusercontent.com/77897030/124880979-d18df100-e009-11eb-8660-04e64783924f.png)
+
 
 **화면설명:** 
 
 각 펀딩의 커뮤니티에서 FAQ를 볼 수 있습니다. 제목을 누르면 내용이 나오는 방식으로 화면을 구성하였습니다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9ead3cf0-615f-4e15-979a-72bfe56bfc80/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9ead3cf0-615f-4e15-979a-72bfe56bfc80/Untitled.png)
+![Untitled (4)](https://user-images.githubusercontent.com/77897030/124881025-dbafef80-e009-11eb-9823-3866657337c7.png)
 
 **화면설명:**
 
@@ -73,7 +74,7 @@
 
 ---
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f28c6181-3083-4261-924b-334e121fbed5/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f28c6181-3083-4261-924b-334e121fbed5/Untitled.png)
+![Untitled (5)](https://user-images.githubusercontent.com/77897030/124881106-ef5b5600-e009-11eb-9432-0654eeb33b68.png)
 
 **화면설명:** 
 
@@ -85,19 +86,19 @@
 
 ---
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f75735fe-418b-4f2c-aeb4-bf57a1b05f93/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f75735fe-418b-4f2c-aeb4-bf57a1b05f93/Untitled.png)
+![Untitled (6)](https://user-images.githubusercontent.com/77897030/124881267-1ca80400-e00a-11eb-94c6-662eac7701dd.png)
 
 **화면설명:**
 
 각 펀딩 게시물의 커뮤니티 하단에서 응원, 의견, 체험리뷰등의 댓글을 볼  수 있습니다. 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2b0f9d4d-fc25-47bd-83df-e0389e408b98/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2b0f9d4d-fc25-47bd-83df-e0389e408b98/Untitled.png)
+![Untitled (7)](https://user-images.githubusercontent.com/77897030/124881342-2fbad400-e00a-11eb-9e5a-8f680c23e2b7.png)
 
 **화면설명:**
 
 글 남기기 버튼을 누르면 댓글을 작성할 수 있는 창이 나옵니다. 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/14aa0a85-0c22-4bf8-8f1f-149a7a95652d/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/14aa0a85-0c22-4bf8-8f1f-149a7a95652d/Untitled.png)
+![Untitled (8)](https://user-images.githubusercontent.com/77897030/124881406-43fed100-e00a-11eb-8b50-eb915047ca92.png)
 
 **화면설명:**
 
